@@ -44,7 +44,6 @@ PRODUCT_PACKAGES += \
     FontEvoSansOverlay \
     FontEvolveSansOverlay \
     FontExotwoOverlay \
-    FontFifa2018Overlay \
     FontGoogleSansOverlay \
     FontGrandHotelOverlay \
     FontHarmonySansOverlay \
@@ -150,7 +149,6 @@ PRODUCT_PACKAGES += \
     ClockFontCrackmanOverlay \
     ClockFontElriott2Overlay \
     ClockFontExotwoOverlay \
-    ClockFontFifa2018Overlay \
     ClockFontGrandHotelOverlay \
     ClockFontHangedOverlay \
     ClockFontHarmonySansOverlay \
